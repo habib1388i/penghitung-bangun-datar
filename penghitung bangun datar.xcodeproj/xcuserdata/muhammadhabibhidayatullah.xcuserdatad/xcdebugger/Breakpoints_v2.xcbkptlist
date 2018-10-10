@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "penghitung bangun datar/bangundatar8ViewController.swift"
+            timestampString = "560835044.515223"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "bangundatar8ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "penghitung_bangun_datar.bangundatar8ViewController.lblHasil2.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "penghitung bangun datar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadhabibhidayatullah/Documents/smk/doc/penghitung%20bangun%20datar/penghitung%20bangun%20datar/bangundatar8ViewController.swift"
+                  timestampString = "560835044.770856"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "penghitung_bangun_datar.bangundatar8ViewController.lblHasil2.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "penghitung bangun datar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadhabibhidayatullah/Documents/smk/doc/penghitung%20bangun%20datar/penghitung%20bangun%20datar/bangundatar8ViewController.swift"
+                  timestampString = "560835044.774969"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "penghitung_bangun_datar.bangundatar8ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; penghitung_bangun_datar.bangundatar8ViewController"
+                  moduleName = "penghitung bangun datar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadhabibhidayatullah/Documents/smk/doc/penghitung%20bangun%20datar/penghitung%20bangun%20datar/bangundatar8ViewController.swift"
+                  timestampString = "560835044.777621"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "251">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "penghitung_bangun_datar.bangundatar8ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;penghitung_bangun_datar.bangundatar8ViewController&gt;"
+                  moduleName = "penghitung bangun datar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadhabibhidayatullah/Documents/smk/doc/penghitung%20bangun%20datar/penghitung%20bangun%20datar/bangundatar8ViewController.swift"
+                  timestampString = "560835044.7794451"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "185">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "penghitung bangun datar/bangundatar8ViewController.swift"
+            timestampString = "560835044.515314"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "bangundatar8ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "penghitung_bangun_datar.bangundatar8ViewController.txtPhi.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "penghitung bangun datar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadhabibhidayatullah/Documents/smk/doc/penghitung%20bangun%20datar/penghitung%20bangun%20datar/bangundatar8ViewController.swift"
+                  timestampString = "560835044.787181"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "penghitung_bangun_datar.bangundatar8ViewController.txtPhi.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "penghitung bangun datar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadhabibhidayatullah/Documents/smk/doc/penghitung%20bangun%20datar/penghitung%20bangun%20datar/bangundatar8ViewController.swift"
+                  timestampString = "560835044.788891"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "penghitung_bangun_datar.bangundatar8ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; penghitung_bangun_datar.bangundatar8ViewController"
+                  moduleName = "penghitung bangun datar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadhabibhidayatullah/Documents/smk/doc/penghitung%20bangun%20datar/penghitung%20bangun%20datar/bangundatar8ViewController.swift"
+                  timestampString = "560835044.790513"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "penghitung_bangun_datar.bangundatar8ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;penghitung_bangun_datar.bangundatar8ViewController&gt;"
+                  moduleName = "penghitung bangun datar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadhabibhidayatullah/Documents/smk/doc/penghitung%20bangun%20datar/penghitung%20bangun%20datar/bangundatar8ViewController.swift"
+                  timestampString = "560835044.7921081"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "55">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
